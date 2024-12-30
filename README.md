@@ -19,3 +19,6 @@ The main features are:
 - File input for selecting images
 - JavaScript to handle file selection and display
 - CSS to limit the size of the displayed image
+
+## Screenshot
+![image](https://github.com/user-attachments/assets/1a70eeed-4a2c-49f6-a126-b634e090bf9f)
